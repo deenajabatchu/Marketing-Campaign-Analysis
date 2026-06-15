@@ -253,8 +253,6 @@ The script automatically generates the following visualizations:
 
 B.Tech – Computer Science and Engineering
 
-Aspiring Data Analyst | Python Enthusiast | Future AI Engineer
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
